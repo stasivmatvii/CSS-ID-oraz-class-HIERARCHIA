@@ -1,1 +1,18 @@
+#header .box {
+    background-color: #ffcccc;
+    padding: 20px;
+    text-align: center;
+}
+
+#main .box {
+    background-color: #ccffcc;
+    padding: 20px;
+    text-align: center;
+}
+
+#footer .box {
+    background-color: #ccccff;
+    padding: 20px;
+    text-align: center;
+}
 
